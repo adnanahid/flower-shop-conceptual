@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+body{
+    font-family: "Lato", sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 1920px;
+    height: 850px;
+    display: flex;
+    background: rgba(229, 84, 115, 0.1);
+    margin: 0 auto;
+
+}
+.header-title{
+    width: 708px;
+    height: 508px;
+    padding-top: 197px;
+    padding-left: 240px;
+
+}
+header h1{
+    color: rgb(39, 39, 39);
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;    
+}
+header p{
+    color: rgba(39, 39, 39, 0.6);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 32px;    
+}
+.shopbtn{
+    color: rgb(255, 255, 255);
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;  
+    padding: 20px 43px;  
+    border-radius: 8px;
+    background: rgb(229, 84, 115);  
+    border: none; 
+    margin-top: 32px; 
+}
+.bannerimg{
+    width: 635px;
+    height: 800px;
+    margin-right: 240px;
+    margin-top: 50px;
+}
+.titleone{
+    text-align: center;
+}
+.titleone h1{
+    color: rgb(39, 39, 39);
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 178px;
+}
+.titleone p{
+    color: rgba(39, 39, 39, 0.6);
+    font-family: "Lato", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+.demoflowers{
+    max-width: 1440px;
+    max-height: 538px;
+    margin: 100px auto;
+    display: flex;
+    gap: 24px;
+    justify-content: space-evenly;
+}
+.imgone{
+    width: 464px;
+    height: 538px;
+    background-color:rgb(242, 222, 232);
+    border-radius: 50% 50% 0 0;    
+}
+.imgtwo{
+    width: 464px;
+    height: 538px;
+    background-color:rgb(218, 240, 241);
+    border-radius: 50% 50% 0 0;    
+}
+.imgthree{
+    width: 464px;
+    height: 538px;
+    background-color:rgb(228, 236,220);
+    width: 464px;
+    height: 538px;
+    border-radius: 50% 50% 0 0;    
+}
+
+.io{
+    padding: 110px 78px 67px 76px;
+}
+.it{
+    padding: 117px 47px;
+}
+.ith{
+    padding: 67px 75px;
+}
+.flowername{
+    color: rgb(39, 39, 39);
+    font-size: 24px;
+    font-weight: 700;  
+    margin-left: 140px;  
+    margin-top: 10px;
+}
+.services{
+    margin: 300px auto;
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    color: rgba(39, 39, 39, 0.8);
+    font-family: "Lato", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+.delivary{
+    width: 372px;
+    height: 147px;
+    text-align: center;
+    
+}
+.freshflowers{
+    width: 316px;
+    height: 147px;
+    text-align: center;
+   
+}
+.support{
+    width: 202px;
+    height: 147px;  
+    text-align: center;  
+   
+}
+.saleoff{
+    width: 1922px;
+    height: 620px;  
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05); 
+    margin: 0 auto;   
+    display: flex; 
+    gap: 186px;
+}
+.saleofftext{
+    width: 594px;
+    height: 228px;
+    margin-left: 395px;
+    margin-top: 230px;
+    text-align: center;
+    gap: 
+}
+.saleoffimg{
+    width: 318px;
+    height: 420px;
+    margin-right: 429px;
+    margin-top: 100px;
+}
+.saleofftext h1{
+    font-family: "Lato", sans-serif;
+    font-size: 40px;
+    font-weight: 800; 
+    padding-bottom: 24px;   
+}
+.saleofftext h1 span{
+    color: red;
+}
+.saleofftext p{
+    color: rgba(39, 39, 39, 0.6);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;   
+    margin-top: 24x; 
+    padding-bottom: 32px;
+}
+
+button{
+    color: rgb(255, 255, 255);
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;   
+    padding: 17px 40px;
+    border-radius: 8px;
+    background: rgb(229, 84, 115);
+    border: none;
+}
+.insta{
+    width: 594px;
+    height: 132px;
+    margin: 100px auto;
+    text-align: center;
+    
+}
+.insta h1{
+    color: rgb(39, 39, 39);
+    font-family: "Lato", sans-serif;
+    font-size: 40px; 
+    font-weight: 800px;
+    padding-bottom: 24px;   
+}
+.insta p{
+    color: rgba(39, 39, 39, 0.6);
+    font-family: "Lato", sans-serif;
+    font-size: 18px;
+    font-weight: 400;    
+}
+.fourimg{
+    width: 1440px;
+    height: 396px;
+    margin: 10px auto;
+    gap: 24px;
+}
+.deal{
+    width: 1440px;
+    height: 449px;  
+    border-radius: 8px;
+    background: url(images/latest-deals-bg.png);
+    margin: 100px auto; 
+    
+
+}
+.deals{
+    width: 373px;
+    height: 94px;
+    text-align: center; 
+    padding-top:122px ;
+    padding-left: 533px;
+}
+.deals h1{
+    color: rgb(39, 39, 39);
+    font-family: "Lato", sans-serif;
+    font-size: 39px;
+    font-weight: 800;   
+
+}
+.deals p{
+    color: rgba(39, 39, 39, 0.6);
+    font-family: "Lato", sans-serif;
+    font-size: 18px;
+    font-weight: 400;    
+    padding-top:22px 
+}
+input{
+    width: 690px;
+    height: 64px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    border: none;
+    font-size: large;
+    
+}
+.inputbtn{
+    width: 870px;
+    height: 64px;
+    margin: 50px auto;
+    align-items: center;
+    
+}
