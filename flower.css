@@ -272,3 +272,31 @@ input{
     align-items: center;
     
 }
+.last{
+    width: 1922px;
+    height: 449px;
+    background: rgb(17, 16, 16);
+    margin: 100px auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: rgba(255, 255, 255,0.9);
+}
+footer h1{
+    padding-top: 100px;
+    font-size: "Lato", sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+    padding-bottom: 30px;   
+}
+
+.last span{
+    color: rgb(229, 84, 115);
+}
+.last p{
+    color: rgba(255, 255, 255, 0.7);
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+padding-bottom: 30px;
+}
